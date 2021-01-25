@@ -1,2 +1,4 @@
 # paboritoo
- A pinoy favorites (this is a study project)
+ A pinoy favorites
+ 
+ This project is for practice only.
